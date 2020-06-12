@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Penkey Suresh and this is my personal blog. I am a software developer with complete product life cycle experience in both mobile and web. I know a little about a lot of things. In my career as a software developer, I've coded and deployed applications in Java, AngularJS, Solr, Django, AWS, iOS, Docker and various build tools and techniques. I actively look for new technologies to get my hand on.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog is a lot about the things I've implemented during my job, side projects, and a little about my own life and for amusement. The blog posts are a simple hack to get the problem solved instead of in depth explanation of the technologies that are used (documentation does a better job for in depth analysis of technologies)
