@@ -1,12 +1,13 @@
-title: My Blog - Master
+title: My Blog - v2.6
 author:
   name: Penkey Suresh
   email: penkeysuresh@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Just implementation
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
+permalink: /:title
 baseurl: "v2.6"
 # Minima date format
 minima:
