@@ -1,0 +1,15 @@
+[[redirects]]
+  from = "/v2.6/*"
+  to = "https://release-v2-6--sad-mcclintock-06b35b.netlify.app/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+
+[[redirects]]
+  from = "/v2.8/*"
+  to = "https://release-v2-8--sad-mcclintock-06b35b.netlify.app/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
