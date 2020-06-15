@@ -1,0 +1,16 @@
+---
+# Source: tigera-secure-ee-core/templates/kdd-crds.yaml
+
+kind: ClusterRole
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: restrict-calico-node-v-master
+rules:
+- apiGroups:
+  - policy
+  resources:
+  - podsecuritypolicies
+  verbs:
+  - use
+  resourceNames:
+  - restrict-calico-node
