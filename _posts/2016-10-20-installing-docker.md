@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing docker - Master"
+title:  "Installing docker - v2.9"
 date:   2016-10-17 17:04:38 +0530
 categories: docker, all
 tags: docker
