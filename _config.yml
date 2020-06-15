@@ -1,4 +1,4 @@
-title: My Blog - v2.6
+title: My Blog - v2.8
 author:
   name: Penkey Suresh
   email: penkeysuresh@gmail.com
@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: /:title
+baseurl: ""
 
 # Minima date format
 minima:
