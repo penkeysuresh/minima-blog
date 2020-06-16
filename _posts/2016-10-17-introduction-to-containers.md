@@ -22,4 +22,4 @@ As you have guessed by now, a consistent and easily replicable solution will pro
 ### What is Docker ?
 Docker is one of those containers that is open source, easy to use, and one that is also [very hot](https://github.com/docker/docker/pulse) at the moment. Docker project started about 3 years ago, hit it's major release about year later. Although the technology is very new, it has a very active community and it's updated very frequently. I happened to use it for one of my clients and it did make my life very easy, especially when the entire app had to be shifted from one server to another one.
 
-Deploy preview
+Deploy preview - trigger
