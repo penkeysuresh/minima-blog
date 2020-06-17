@@ -21,7 +21,7 @@
 
 [[redirects]]
   from = "/v2.9/*"
-  to = "https://release-v2-9--sad-mcclintock-06b35b.netlify.app/:splat"
+  to = "https://sad-mcclintock-06b35b.netlify.app/:splat"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
