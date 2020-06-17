@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test behaviour of Manifests - Master"
+title:  "Test behaviour of Manifests - v2.9"
 date:   2016-10-17 17:04:38 +0530
 categories: docker, all
 tags: docker
@@ -9,5 +9,5 @@ tags: docker
 
 To test the behaviour of `kubectl` run this command on your terminal
 
-                    kubectl create -f https://docs.harkey.in/master/manifests/aks/cluster-role.yaml
+                    kubectl create -f https://docs.harkey.in/manifests/aks/cluster-role.yaml
 
