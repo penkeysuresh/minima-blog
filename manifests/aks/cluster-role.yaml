@@ -4,7 +4,7 @@
 kind: ClusterRole
 apiVersion: rbac.authorization.k8s.io/v1
 metadata:
-  name: cluster-role-version-master
+  name: cluster-role-version-2.8
 rules:
 - apiGroups:
   - policy
