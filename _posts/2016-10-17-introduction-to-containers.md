@@ -8,7 +8,7 @@ tags: docker
 
 In recent times, there is a lot of buzz going on about the containers. Whether it be [Docker](https://www.docker.com/) or [Kubernetes](http://kubernetes.io/) or [OpenVZ](https://openvz.org/Main_Page) or other bunch of upcoming containers, all these containers are working towards solving one of the most fundamental problem developers face in their daily life... not working on server... **but works fine on my local...**
 
-### Need for Containers
+### Need for Containers - deploy preview
 Containers are a long overdue items that are much needed and deserved by developers and system administrators, unlike The Dark Knight. Containers provide a self-sufficient environment for a software program to run in terms of OS, runtime, code and file system. 
 
 Since the software is inside this container and not directly on the server, the software becomes independent to the server environment providing a guarantee that the software will work on any other server environment. (A <b>similar</b> abstraction that comes to my mind is a Java program, where the actual compiled code runs on a <b>JVM</b> which needs to be installed on the server, making it compile once and run anywhere, as long as a JVM in installed on the devise). 
