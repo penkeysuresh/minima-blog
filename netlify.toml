@@ -18,3 +18,6 @@
   status = 200
   force = true
   headers = {X-From = "Netlify"}
+
+[context.deploy-preview]
+  command = "jekyll build --baseurl  "/""
