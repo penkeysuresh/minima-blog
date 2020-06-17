@@ -9,5 +9,5 @@ tags: docker
 
 To test the behaviour of `kubectl` run this command on your terminal
 
-                    kubectl create -f https://docs.harkey.in/master/manifests/aks/cluster-role.yaml
+                    kubectl create -f https://docs.harkey.in/v2.8/manifests/aks/cluster-role.yaml
 
