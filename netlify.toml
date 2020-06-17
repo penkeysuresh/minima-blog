@@ -20,4 +20,4 @@
   headers = {X-From = "Netlify"}
 
 [context.deploy-preview]
-  command = "jekyll build --baseurl  "/""
+  command = "jekyll build --baseurl /"
